@@ -1,0 +1,44 @@
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.exe
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.deps.json
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.runtimeconfig.json
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.dll
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.pdb
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.AssemblyReference.cache
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.Form1.resources
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.GenerateResource.cache
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.AssemblyInfoInputs.cache
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.AssemblyInfo.cs
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.dll
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\refint\LineaDeBresenham.dll
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.pdb
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.genruntimeconfig.cache
+D:\Escuela\Semestre 6\Lenguaje de interfaz\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\ref\LineaDeBresenham.dll
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.AssemblyReference.cache
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.Form1.resources
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.GenerateResource.cache
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.AssemblyInfoInputs.cache
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.AssemblyInfo.cs
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.dll
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\refint\LineaDeBresenham.dll
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.pdb
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.exe
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.deps.json
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.runtimeconfig.json
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.dll
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\bin\Debug\net6.0-windows\LineaDeBresenham.pdb
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.genruntimeconfig.cache
+D:\Escuela\Semestre 6\Graficacion\Unidad 2\Linea de bresenham\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\ref\LineaDeBresenham.dll
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.AssemblyReference.cache
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.Form1.resources
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.GenerateResource.cache
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.AssemblyInfoInputs.cache
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.AssemblyInfo.cs
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.csproj.CoreCompileInputs.cache
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.dll
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\refint\LineaDeBresenham.dll
+C:\Users\flaco\source\repos\LineaDeBresenham\LineaDeBresenham\obj\Debug\net6.0-windows\LineaDeBresenham.pdb
